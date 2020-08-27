@@ -1,0 +1,71 @@
+﻿#about.about-mf.sect-pt4.route {
+    padding-top: 100px;
+}
+
+section#work.portfolio-mf.sect-pt4.route {
+    padding-top: 100px;
+}
+
+div.work-content {
+    min-height: 8.5em;
+}
+
+div.title-box.text-center {
+    margin: auto;
+}
+
+section#Resume.blog-mf.sect-pt4.route {
+    padding-top: 100px;
+}
+
+div.col-md-6.card-container {
+    margin: auto;
+}
+
+h3.card-title {
+    padding-left: 50px;
+}
+
+body#page-top {
+    padding-top: 25px;
+}
+
+#Classmates img.img-fluid {
+    border-radius: 50%;
+    margin: auto
+    width: 200px;
+    Height: 200px;
+}
+
+#Classmates div.card-img {
+    padding-left: 75px;
+    padding-top: 75px;
+    padding-bottom: 25px
+}
+
+#Classmates div.card-body {
+    background-color: lightgrey;
+}
+
+div.section-counter.paralax-mf.bg-image div.container {
+    padding-left: 275px;
+}
+
+div.work-content {
+    padding-bottom: 25px;
+}
+
+body#page-top form {
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+p.Contact {
+    padding-left: 500px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+body#page-top {
+    padding-top: 100px;
+}
